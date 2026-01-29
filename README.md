@@ -89,7 +89,7 @@ O material aponta para um futuro com:
 
 📂 Links do Projeto
 
-    Caderno NotebookLM: https://notebooklm.google.com/notebook/beb2e4e7-4c7e-410e-886a-1bf126c76780
+    Para acessar o material completo, clique aqui: [Caderno Temático - NotebookLM](https://notebooklm.google.com/notebook/beb2e4e7-4c7e-410e-886a-1bf126c76780)
 
 
 Dica para o GitHub:

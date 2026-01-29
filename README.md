@@ -87,10 +87,10 @@ O material aponta para um futuro com:
 
     Educação Democrática: Influência de nomes como Nath Finanças para a baixa renda.
 
-📂 Links do Projeto
+# 🔗 Link de Acesso ao Projeto
+Clique no link abaixo para visualizar o caderno no NotebookLM:
 
-    Para acessar o material completo, clique aqui: [Caderno Temático - NotebookLM](https://notebooklm.google.com/notebook/beb2e4e7-4c7e-410e-886a-1bf126c76780)
-
+[Acessar Caderno Temático: Educação Financeira](https://notebooklm.google.com/notebook/beb2e4e7-4c7e-410e-886a-1bf126c76780)
 
 Dica para o GitHub:
 
